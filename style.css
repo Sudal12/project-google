@@ -12,6 +12,17 @@ img {
 }
 input {
   width: 100%;
+  margin-top: 20px;
+  border-color: #c4c4c4;
+  border-radius: 15px;
+  color: #5b5b5b;
+  margin-bottom: 20px;
+  padding: 9px;
 }
 button {
+  border-radius: 5px;
+  background-color: #4285f3;
+  width: 80px;
+  color: white;
+  padding: 9px;
 }

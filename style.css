@@ -24,9 +24,35 @@
   background-color: #4285f3;
   width: 80px;
   color: white;
-  padding: 9px;
+  padding: 5px;
 }
 /* div {
   display: grid;
   grid-column: 1fr 1fr 1fr;
 } */
+
+.nav {
+  display: grid;
+  grid-template-columns: 150px auto;
+}
+.nav img {
+  width: 150px;
+  margin-right: 30px;
+}
+
+.nav input {
+  width: 700px;
+
+  border-color: #c4c4c4;
+  border-radius: 15px;
+  color: #5b5b5b;
+  margin-bottom: 20px;
+  padding: 9px;
+}
+.nav button {
+  border-radius: 5px;
+  background-color: #4285f3;
+  width: 80px;
+  color: white;
+  padding: 1px;
+}

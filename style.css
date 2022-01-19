@@ -34,7 +34,9 @@
 .nav {
   display: grid;
   grid-template-columns: 150px auto;
+  grid-template-areas: 80px;
 }
+
 .nav img {
   width: 150px;
   margin-right: 30px;

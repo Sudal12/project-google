@@ -26,25 +26,22 @@
   color: white;
   padding: 5px;
 }
-/* div {
-  display: grid;
-  grid-column: 1fr 1fr 1fr;
-} */
 
 .nav {
   display: grid;
   grid-template-columns: 150px auto;
   grid-template-areas: 80px;
+  grid-gap: 10px;
 }
 
 .nav img {
   width: 150px;
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 .nav input {
   width: 700px;
-
+  margin-right: 10px;
   border-color: #c4c4c4;
   border-radius: 15px;
   color: #5b5b5b;
@@ -56,5 +53,5 @@
   background-color: #4285f3;
   width: 80px;
   color: white;
-  padding: 1px;
+  padding: 10px;
 }

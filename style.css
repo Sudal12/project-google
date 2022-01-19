@@ -7,10 +7,10 @@
   margin-top: 100px;
 }
 
-img {
+.center img {
   width: 150px;
 }
-input {
+.center input {
   width: 100%;
   margin-top: 20px;
   border-color: #c4c4c4;
@@ -19,10 +19,14 @@ input {
   margin-bottom: 20px;
   padding: 9px;
 }
-button {
+.center button {
   border-radius: 5px;
   background-color: #4285f3;
   width: 80px;
   color: white;
   padding: 9px;
 }
+/* div {
+  display: grid;
+  grid-column: 1fr 1fr 1fr;
+} */

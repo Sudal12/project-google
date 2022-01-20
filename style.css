@@ -51,10 +51,22 @@
 .nav button {
   border-radius: 5px;
   background-color: #4285f3;
+  border-color: #4285f3;
   width: 80px;
   color: white;
   padding: 10px;
 }
 .wrapper {
   margin-left: 160px;
+}
+li {
+  display: inline;
+  color: #1a0dab;
+}
+h2 {
+  color: #1a0dab;
+  text-decoration: none;
+}
+p {
+  color: #5b5b5b;
 }

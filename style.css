@@ -65,8 +65,17 @@ li {
 }
 h2 {
   color: #1a0dab;
-  text-decoration: none;
+  font: Helvetica;
+  font-size: 24px;
 }
 p {
   color: #5b5b5b;
+}
+a {
+  text-decoration: none;
+  color: #1a0dab;
+}
+.line {
+  text-decoration: underline;
+  color: #1a0dab;
 }
